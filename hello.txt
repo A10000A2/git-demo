@@ -26,3 +26,4 @@ lhc test7
 lhc test8
 lhc test9
 lhc test10
+lhc test11
